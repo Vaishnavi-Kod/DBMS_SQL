@@ -1,19 +1,3 @@
-Database Schema: Consider a simple database with one tables: BankAccount BankAccount Table: 
-
-● Columns: account_id (Primary Key), account_holder_name, account_balance
-
- Task 1: Insert Data Write an SQL INSERT statement to insert data into the BankAccount table. 
-
-Task 2: Retrieving Data Write an SQL SELECT statement to retrieve the account_holder_name and account_balance of all account holders from the BankAccount table. 
-
-Task 3: Filtering Data Write an SQL SELECT statement to retrieve the account_holder_name and account_balance where the account_balance is more than 30,000. 
-
-Task 4: Updating Data Write an SQL UPDATE statement to change the account_balance of the account holder whose ID is 101. 
-
-Submission: Create an SQL script file containing your solutions for all tasks (queries). Name the file "lab_assignment1.sql" Provide comments above each query to indicate the task number and the query's purpose.
-
-//SQL Queries
-
 mysql> create database BankAccount;
 Query OK, 1 row affected (0.01 sec)
 
