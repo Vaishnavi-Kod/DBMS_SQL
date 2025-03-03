@@ -27,7 +27,8 @@ public class JDBCInsert1 {
 
 	}
 }
-	/*Output:
-	 com.mysql.cj.jdbc.ConnectionImpl@43c1b556
-         1record inserted successfully
-	 */
+
+/*Output:
+ com.mysql.cj.jdbc.ConnectionImpl@43c1b556
+ 1record inserted successfully
+ */
